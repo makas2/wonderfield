@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+
+<settings 
+
+background_color="FFFFFF"
+picture_color="ffffff"
+text_color="FFFFFF"
+btn_color="60b4d8"
+btn_arrow_color="FFFFFF"
+btn_over_color="73c3df"
+btn_arrow_over_color="1a7baa"
+scroll_color="60b4d8"
+scroll_arrow_color="ffffff"
+scroll_over_color="73c3df"
+scroll_arrow_over_color="1a7baa"
+thumb_color="EEEEEE"
+thumb_over_color="ffffff"
+
+text="off"
+fullscreen_icon="off"
+slideshow_icon="off"
+slideshow_autostart="on"
+slideshow_delay="3"
+/>

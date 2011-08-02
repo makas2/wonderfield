@@ -1,0 +1,24 @@
+CU3ER ChangeLog
+
+v1.04 | 10-September-2010
+-------------------------
+ * [player] forced loading type for XML, so dynamically generated XML from script works better
+
+
+v1.03 | 22-August-2010
+-------------------------
+ * [player] [flashvars] added xml as a flashvar, string instead of XML path
+ * [player] nicer slide display when slide finishes transition, pixelPrecision 2px set
+
+
+v1.02 | 30-July-2010
+-------------------------
+ * [player] [CU3ER.js] changed play and pause callbacks to 'playCU3ER' and 'pauseCU3ER' to avoid errors in IE8
+
+
+v1.01 | 27-July-2010
+-------------------------
+ * added support for subdomains
+
+
+

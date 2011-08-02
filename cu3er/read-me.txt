@@ -1,0 +1,22 @@
+Thank you for downloading CU3ER!
+
+Follow this steps to install CU3ER on your site (replace yourdomain with your domain url (e.g. getcu3er.com):
+
+1. Copy CU3ER.swf and js folder to http://yourdomain.com/
+2. Copy CU3ER-config.xml to http://yourdomain.com/CU3ER-config.xml
+3. Copy content of /images folder to http://yourdomain.com/images/
+4. Copy content of /fonts folder to http://yourdomain.com/fonts/
+5. View page source of embed_example.html and
+   a) copy first <!-- CU3ER content JavaScript part starts here --> until <!-- CU3ER content JavaScript part end here --> to HEAD part of your HTML document where you want to place CU3ER
+   b) copy first <!-- CU3ER content HTML part starts here --> until <!-- CU3ER content HTML part ends here --> to BODY part of your HTML document where you want to place CU3ER
+
+NOTE: If you have trouble with viewing CU3ER on your local hard drive, please adjust your Flash player global security settings:
+1. Visit http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager04.html
+2. Click on "Edit locations -> add location"
+3. Click on "Browse for folder..." and mark folder where you have extracted your CU3ER free zip package
+4. That's it. Reload your embed_example.html and preview CU3ER.
+
+Thanks for using CU3ER!
+
+CU3ER Team.
+http://getcu3er.com
